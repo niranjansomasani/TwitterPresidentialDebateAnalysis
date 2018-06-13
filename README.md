@@ -1,6 +1,6 @@
 Overview:
 
-Twitter provides a limit to extract tweets through Twitter API older than 7-9 days from the current date of extraction. I'm doing analysis of tweets in 2016 of the three Debates, it's too late for me now to get those tweets so I need to find a way to extract those tweets. Below are some of the useful links and process I followed to get old tweets.
+I'm doing analysis of tweets in 2016 of the three Debates, it's too late for me now to get those tweets so I need to find a way to extract those tweets as Twitter provides a limit to extract tweets through Twitter API older than 7-9 days from the current date of extraction. Below are some of the useful links and process I followed to get old tweets.
 
 I've collected the twitter IDs of the users who tweeted about each of the debate from the dataset provided by Harvard Business School from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PDI7IN.
 
