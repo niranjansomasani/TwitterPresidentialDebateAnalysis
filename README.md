@@ -18,6 +18,14 @@ Twitter_Authentication_code: This notebook file has the code to access and extra
 
 Note: You cannot share the tweets data but you can share twitter IDs, so i'm not displaying any output for the analysis.
 
+References:
+
+https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-
+https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
+https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90
+https://www.youtube.com/watch?v=o_OZdbCzHUA
+https://github.com/llSourcell/twitter_sentiment_challenge
+
 Please do let me know for any changes.
 
 Thanks
