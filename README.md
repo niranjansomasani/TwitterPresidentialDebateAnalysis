@@ -16,6 +16,8 @@ Presidential_Debate_USA_Analysis: This notebook file mentions various sources on
 
 Twitter_Authentication_code: This notebook file has the code to access and extract tweets just in case if you want to do so rather than using hydrator and then can use the 'Presidential_Debate_USA_Analysis' notebook file for further analysis after you get the required data.
 
+Note: You cannot share the tweets data but you can share twitter IDs, so i'm not displaying any output for the analysis.
+
 Please do let me know for any changes.
 
 Thanks
